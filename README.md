@@ -10,6 +10,7 @@ Skills:
 - SQL
 - Python
 - Go (just started learning)
+- JavaScript (what we use in school)
 - Git
 - Working with APIs, using Pythons Requests library
 - Several norwegian accounting/ERP systems
